@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049590937100",
+    "project_id": "flash-chat-b6e6c",
+    "storage_bucket": "flash-chat-b6e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049590937100:android:35f957898ebb8cd5126029",
+        "android_client_info": {
+          "package_name": "co.chandimal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049590937100-a9m7ee4cg6gaonsqb33k402g4fuhcnao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx9SQhnQD1v0RTRGJ0TTzsTPCxtdXCZto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049590937100-a9m7ee4cg6gaonsqb33k402g4fuhcnao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
